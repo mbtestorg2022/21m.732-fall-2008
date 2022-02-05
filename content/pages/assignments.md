@@ -4,29 +4,594 @@ title: Assignments
 uid: 97ae9684-1086-5ebc-58d4-6d2d086c2fe2
 ---
 
-| SES # | TOPICS | ASSIGNMENTS |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Intro: who are you and who am I? {{< br >}}{{< br >}} What is a costume? Why a costume designer? {{< br >}}{{< br >}} Lecture: Reading the Play {{< br >}}{{< br >}}  | {{< h 3 >}}Due in Session #2{{< /h >}} {{< br >}}{{< br >}} Read _On the Harm of Tobacco_ {{< br >}}{{< br >}} Make 2 lists; one of costume pieces that are mentioned in the script, and second of things you know about Ivan based on the script. {{< br >}}{{< br >}} Answer the questions in as much detail as possible: {{< br >}}{{< br >}} 1\. If he were a car what kind would he be?  {{< br >}}2\. If he were an animal what kind would he be?  {{< br >}}3\. If he could chose to kill either himself or his wife, who would he kill? {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} Lecture: Psychology of Clothes {{< br >}}{{< br >}} Discuss _On the Harm of Tobacco_ lists {{< br >}}{{< br >}}  | {{< h 3 >}}Due in Session #3{{< /h >}} {{< br >}}{{< br >}} Read these versions of _Little Red Riding Hood_: {{< br >}}{{< br >}} Perrault, Charles. "Little Red Riding Hood." (1697)  {{< br >}}Baring-Gould, Sabine. "Little Red Riding Hood." (1895)  {{< br >}}Sharpe, Anne. "Not So Little Red Riding Hood." (1985)  {{< br >}}Phillips, H. I. "Little Red Riding Hood as a Dictator Would Tell It." (1940) {{< br >}}{{< br >}} {{< h 3 >}}Due in Session #4{{< /h >}} {{< br >}}{{< br >}} Design Ivan as a contemporary figure. Use magazine pictures and lots of words, or do a rendering. {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} Discuss _Little Red Riding Hood_ versions and the idea of concept {{< br >}}{{< br >}}  | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} Lecture: Script and Character Analysis; Research; Styles of Costumes. {{< br >}}{{< br >}} Discuss _On the Harm of Tobacco_ renderings {{< br >}}{{< br >}}  | {{< h 3 >}}Due in Session #6{{< /h >}} {{< br >}}{{< br >}} Research period for _On the Harm of Tobacco_ {{< br >}}{{< br >}}  |
-| 5 |  {{< br >}}{{< br >}} Lecture: Translating Emotion to Visual {{< br >}}{{< br >}} Visual conversation exercise {{< br >}}{{< br >}} Line/Emotion exercise {{< br >}}{{< br >}}  | {{< h 3 >}}Due in Session #7{{< /h >}} {{< br >}}{{< br >}} Bring in pictures of presented food that you find interesting/beautiful {{< br >}}{{< br >}}  |
-| 6 |  {{< br >}}{{< br >}} Look at research for _On the Harm of Tobacco_ {{< br >}}{{< br >}} Lecture: Elements of Design {{< br >}}{{< br >}}  | {{< h 3 >}}Due in Session #8{{< /h >}} {{< br >}}{{< br >}} Line gowns: vertical, horizontal, and diagonal lines {{< br >}}{{< br >}}  |
-| 7 |  {{< br >}}{{< br >}} Rendering exercises {{< br >}}{{< br >}} Drawing lab {{< br >}}{{< br >}}  | {{< h 3 >}}Due in Session #8{{< /h >}} {{< br >}}{{< br >}} Read _Hamlet_ synopsis if needed {{< br >}}{{< br >}}  |
-| 8 |  {{< br >}}{{< br >}} Discuss line gowns {{< br >}}{{< br >}} Watch excerpts of _Hamlet_ by Zeffirelli and discuss idea of concept {{< br >}}{{< br >}}  | {{< h 3 >}}Due in Session #10{{< /h >}} {{< br >}}{{< br >}} Collage of _Hamlet_ concept {{< br >}}{{< br >}}  |
-| 9 |  {{< br >}}{{< br >}} Discuss food assignment with preso {{< br >}}{{< br >}} Begin drafting unit: bodice and hip block {{< br >}}{{< br >}}  | {{< h 3 >}}Due in Session #11{{< /h >}} {{< br >}}{{< br >}} Food assignment {{< br >}}{{< br >}}  |
-| 10 |  {{< br >}}{{< br >}} Discuss _Hamlet_ collages {{< br >}}{{< br >}} Continue drafting {{< br >}}{{< br >}} Begin cutting and sewing muslins {{< br >}}{{< br >}}  | {{< h 3 >}}Due in Session #12{{< /h >}} {{< br >}}{{< br >}} Thrift store transformation {{< br >}}{{< br >}}  |
-| 11 |  {{< br >}}{{< br >}} Discuss food assignment {{< br >}}{{< br >}} Finish and fit muslins {{< br >}}{{< br >}}  | {{< h 3 >}}Due in Session #14{{< /h >}} {{< br >}}{{< br >}} Read _Stupid Kids_. Write a concept paper of 3-5 pages about the world you imagine they live in and how they feel about their place in it. {{< br >}}{{< br >}}  |
-| 12 | Thrift store transformation workshop | &nbsp; |
-| 13 |  {{< br >}}{{< br >}} Pattern manipulation and drafting {{< br >}}{{< br >}} Discuss _Stupid Kids_ {{< br >}}{{< br >}} Introduce sloper manipulation project {{< br >}}{{< br >}}  | {{< h 3 >}}Due in Session #15{{< /h >}} {{< br >}}{{< br >}} Sketch for sloper manipulation project {{< br >}}{{< br >}}  |
-| 14 |  {{< br >}}{{< br >}} Lecture: Stylization and Abstraction {{< br >}}{{< br >}} Wedding project {{< br >}}{{< br >}}  | {{< h 3 >}}Due in Session #16{{< /h >}} {{< br >}}{{< br >}} Preliminary sketches for _Stupid Kids_ {{< br >}}{{< br >}}  |
-| 15 |  {{< br >}}{{< br >}} Color workshop {{< br >}}{{< br >}} Talk about garbage project {{< br >}}{{< br >}}  | {{< h 3 >}}Due in Session #17{{< /h >}} {{< br >}}{{< br >}} Group dynamics {{< br >}}{{< br >}} {{< h 3 >}}Due in Session #23{{< /h >}} {{< br >}}{{< br >}} Garbage project {{< br >}}{{< br >}}  |
-| 16 |  {{< br >}}{{< br >}} Look at _Stupid Kids_ sketches {{< br >}}{{< br >}} Begin sloper manipulation project {{< br >}}{{< br >}}  | {{< h 3 >}}Due in Session #17{{< /h >}} {{< br >}}{{< br >}} Read _Kiosk Man_ {{< br >}}{{< br >}} {{< h 3 >}}Due in Session #18{{< /h >}} {{< br >}}{{< br >}} Full renderings for _Stupid Kids_ {{< br >}}{{< br >}}  |
-| 17 |  {{< br >}}{{< br >}} Look at group dynamics {{< br >}}{{< br >}} Discuss final project {{< br >}}{{< br >}} Continue sloper manipulation project {{< br >}}{{< br >}}  | {{< h 3 >}}Due in Session #18{{< /h >}} {{< br >}}{{< br >}} Read _Lion in Winter_, be ready to discuss {{< br >}}{{< br >}} {{< h 3 >}}Due in Session #19{{< /h >}} {{< br >}}{{< br >}} Preliminary rough sketches/idea for _Kiosk Man_ {{< br >}}{{< br >}} {{< h 3 >}}Due in Session #20{{< /h >}} {{< br >}}{{< br >}} Write a concept paper for _Lion in Winter_ {{< br >}}{{< br >}} {{< h 3 >}}Due in Session #24{{< /h >}} {{< br >}}{{< br >}} Final project {{< br >}}{{< br >}}  |
-| 18 |  {{< br >}}{{< br >}} Look at _Stupid Kids_ renderings {{< br >}}{{< br >}} Sloper project {{< br >}}{{< br >}}  | &nbsp; |
-| 19 |  {{< br >}}{{< br >}} Look at _Kiosk Man_ sketches {{< br >}}{{< br >}} Discuss dynamics of play and characters in _Lion in Winter_ {{< br >}}{{< br >}}  | {{< h 3 >}}Due in Session #21{{< /h >}} {{< br >}}{{< br >}} Start research for _Lion in Winter_, bring it in to share {{< br >}}{{< br >}}  |
-| 20 |  {{< br >}}{{< br >}} Open shop: garbage project brainstorming {{< br >}}{{< br >}} Sloper project {{< br >}}{{< br >}} _Lion in Winter_ questions {{< br >}}{{< br >}}  | &nbsp; |
-| 21 |  {{< br >}}{{< br >}} Texture exercise {{< br >}}{{< br >}} Pinstripe Olympics {{< br >}}{{< br >}}  | {{< h 3 >}}Due in Session #22{{< /h >}} {{< br >}}{{< br >}} Preliminary renderings for _Lion in Winter_ {{< br >}}{{< br >}}  |
-| 22 |  {{< br >}}{{< br >}} Look at _Lion in Winter_ preliminary sketches {{< br >}}{{< br >}} Papers returned {{< br >}}{{< br >}} Open shop {{< br >}}{{< br >}}  | &nbsp; |
-| 23 |  {{< br >}}{{< br >}} Present garbage project {{< br >}}{{< br >}} Look at finals so far if needed {{< br >}}{{< br >}} Open shop {{< br >}}{{< br >}}  | &nbsp; |
-| 24 | Final project preso, _Lion In Winter_ |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Intro: who are you and who am I?
+
+What is a costume? Why a costume designer?
+
+Lecture: Reading the Play
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Due in Session #2
+
+Read _On the Harm of Tobacco_
+
+Make 2 lists; one of costume pieces that are mentioned in the script, and second of things you know about Ivan based on the script.
+
+Answer the questions in as much detail as possible:
+
+1\. If he were a car what kind would he be?  
+2\. If he were an animal what kind would he be?  
+3\. If he could chose to kill either himself or his wife, who would he kill?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lecture: Psychology of Clothes
+
+Discuss _On the Harm of Tobacco_ lists
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Due in Session #3
+
+Read these versions of _Little Red Riding Hood_:
+
+Perrault, Charles. "Little Red Riding Hood." (1697)  
+Baring-Gould, Sabine. "Little Red Riding Hood." (1895)  
+Sharpe, Anne. "Not So Little Red Riding Hood." (1985)  
+Phillips, H. I. "Little Red Riding Hood as a Dictator Would Tell It." (1940)
+
+### Due in Session #4
+
+Design Ivan as a contemporary figure. Use magazine pictures and lots of words, or do a rendering.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discuss _Little Red Riding Hood_ versions and the idea of concept
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lecture: Script and Character Analysis; Research; Styles of Costumes.
+
+Discuss _On the Harm of Tobacco_ renderings
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Due in Session #6
+
+Research period for _On the Harm of Tobacco_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lecture: Translating Emotion to Visual
+
+Visual conversation exercise
+
+Line/Emotion exercise
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Due in Session #7
+
+Bring in pictures of presented food that you find interesting/beautiful
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Look at research for _On the Harm of Tobacco_
+
+Lecture: Elements of Design
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Due in Session #8
+
+Line gowns: vertical, horizontal, and diagonal lines
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Rendering exercises
+
+Drawing lab
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Due in Session #8
+
+Read _Hamlet_ synopsis if needed
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discuss line gowns
+
+Watch excerpts of _Hamlet_ by Zeffirelli and discuss idea of concept
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Due in Session #10
+
+Collage of _Hamlet_ concept
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discuss food assignment with preso
+
+Begin drafting unit: bodice and hip block
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Due in Session #11
+
+Food assignment
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discuss _Hamlet_ collages
+
+Continue drafting
+
+Begin cutting and sewing muslins
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Due in Session #12
+
+Thrift store transformation
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discuss food assignment
+
+Finish and fit muslins
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Due in Session #14
+
+Read _Stupid Kids_. Write a concept paper of 3-5 pages about the world you imagine they live in and how they feel about their place in it.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Thrift store transformation workshop
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Pattern manipulation and drafting
+
+Discuss _Stupid Kids_
+
+Introduce sloper manipulation project
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Due in Session #15
+
+Sketch for sloper manipulation project
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lecture: Stylization and Abstraction
+
+Wedding project
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Due in Session #16
+
+Preliminary sketches for _Stupid Kids_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Color workshop
+
+Talk about garbage project
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Due in Session #17
+
+Group dynamics
+
+### Due in Session #23
+
+Garbage project
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Look at _Stupid Kids_ sketches
+
+Begin sloper manipulation project
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Due in Session #17
+
+Read _Kiosk Man_
+
+### Due in Session #18
+
+Full renderings for _Stupid Kids_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Look at group dynamics
+
+Discuss final project
+
+Continue sloper manipulation project
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Due in Session #18
+
+Read _Lion in Winter_, be ready to discuss
+
+### Due in Session #19
+
+Preliminary rough sketches/idea for _Kiosk Man_
+
+### Due in Session #20
+
+Write a concept paper for _Lion in Winter_
+
+### Due in Session #24
+
+Final project
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Look at _Stupid Kids_ renderings
+
+Sloper project
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Look at _Kiosk Man_ sketches
+
+Discuss dynamics of play and characters in _Lion in Winter_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Due in Session #21
+
+Start research for _Lion in Winter_, bring it in to share
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Open shop: garbage project brainstorming
+
+Sloper project
+
+_Lion in Winter_ questions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Texture exercise
+
+Pinstripe Olympics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Due in Session #22
+
+Preliminary renderings for _Lion in Winter_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Look at _Lion in Winter_ preliminary sketches
+
+Papers returned
+
+Open shop
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Present garbage project
+
+Look at finals so far if needed
+
+Open shop
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Final project preso, _Lion In Winter_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -46,7 +46,7 @@ Basic Function of Costumes ([PDF]({{< baseurl >}}/resources/costumes))
 
 Reading the Play ([PDF]({{< baseurl >}}/resources/play_q))
 
-Stencil Rendering (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/stencil))
+Stencil Rendering ([PDF]({{< baseurl >}}/resources/stencil))
 
 
 {{< tdclose >}}

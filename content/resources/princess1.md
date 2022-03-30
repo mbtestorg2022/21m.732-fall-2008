@@ -7,6 +7,7 @@ image_metadata:
   caption: Newspaper wedding gown for a Disney princess, from the front.
   credit: 'Credit: Image courtesy of an MIT student. Used with permission.'
   image-alt: Drawing of a student-designed costume.
+parent_uid: de9474d6-8c28-c8d3-48a5-dc3d4664e467
 resourcetype: Image
 title: Princess 1
 uid: 58bc3434-efd3-acac-70ad-e4b460ea1030

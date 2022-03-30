@@ -7,6 +7,7 @@ image_metadata:
   caption: A dress with horizontal lines.
   credit: 'Credit: Image courtesy an MIT student. Used with permission.'
   image-alt: Drawing of a dress.
+parent_uid: 3fa26932-ba44-6d17-8a4a-90755b609f6b
 resourcetype: Image
 title: Student B - Horizontal
 uid: ae799bc9-110f-fb13-29ad-237e0ddf26c5

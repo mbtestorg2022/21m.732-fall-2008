@@ -9,6 +9,7 @@ image_metadata:
   image-alt: This dress features a front hemline that goes from the right thigh to
     past the left ankle, and continues at floor-length in back. The bodice leaves
     the right shoulder bare and has a long left sleeve that widens past the elbow.
+parent_uid: e22d60f6-e6a0-454b-cc4b-879dd1207d9d
 resourcetype: Image
 title: Student A - Diagonal
 uid: cc0481d6-32be-8763-4dc5-5e56090251d8

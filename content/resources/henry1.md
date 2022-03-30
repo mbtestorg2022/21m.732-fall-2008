@@ -7,6 +7,7 @@ image_metadata:
   caption: 'Henry: the king of the pack, ripe to fend of challengers and time.'
   credit: 'Credit: Image courtesy of an MIT student. Used with permission.'
   image-alt: Drawing of a student-designed costume.
+parent_uid: 2b0f2a5f-c483-8d11-e9d5-701cc5f41e49
 resourcetype: Image
 title: Henry
 uid: daac2ba7-3dff-60ad-18bf-1ac7526ca299

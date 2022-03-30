@@ -7,6 +7,7 @@ image_metadata:
   caption: Philip Capet, King of France.
   credit: 'Credit: Image courtesy of Sarah Slotznick. Used with permission.'
   image-alt: Drawing of a student-designed costume.
+parent_uid: ee8aa7c7-827d-252e-9ea0-3f6a864888c1
 resourcetype: Image
 title: Philip
 uid: e290debe-f81c-b32f-b7e6-febb277bf3ae

@@ -7,6 +7,7 @@ image_metadata:
   caption: A dress with vertical lines.
   credit: 'Credit: Image courtesy of an MIT student. Used with permission.'
   image-alt: Drawing of a student-designed costume.
+parent_uid: 3fa26932-ba44-6d17-8a4a-90755b609f6b
 resourcetype: Image
 title: Student B - Vertical
 uid: c5a2f9a5-2435-a003-8d2f-8bbde62dbd3d

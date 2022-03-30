@@ -7,6 +7,7 @@ image_metadata:
   caption: Inspired by an ice cream sundae.
   credit: 'Credit: Image courtesy of an MIT student. Used with permission.'
   image-alt: Drawing of a student-designed costume.
+parent_uid: b0081133-fc7e-cb3e-2f17-a4cde7eb0d41
 resourcetype: Image
 title: Sundae
 uid: f6512d47-a3de-52fe-c9fd-1f496bd2ceda

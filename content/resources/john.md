@@ -7,6 +7,7 @@ image_metadata:
   caption: John, son of Henry and Eleanor.
   credit: 'Credit: Image courtesy of Sarah Slotznick. Used with permission.'
   image-alt: Drawing of a student-designed costume.
+parent_uid: ee8aa7c7-827d-252e-9ea0-3f6a864888c1
 resourcetype: Image
 title: John
 uid: 49a6f6c7-9c3b-7c41-0a71-1c5175f25a11

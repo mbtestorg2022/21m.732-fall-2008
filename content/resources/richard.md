@@ -7,6 +7,7 @@ image_metadata:
   caption: Richard the Lionheart, son of Henry and Eleanor.
   credit: 'Credit: Image courtesy of Sarah Slotznick. Used with permission.'
   image-alt: Drawing of a student-designed costume.
+parent_uid: ee8aa7c7-827d-252e-9ea0-3f6a864888c1
 resourcetype: Image
 title: Richard
 uid: 7aead418-8503-1e0b-3304-ccdd060e4ed2

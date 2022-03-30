@@ -7,6 +7,7 @@ image_metadata:
   caption: Newspaper wedding gown for a Las Vegas show girl, from the front.
   credit: 'Credit: Image courtesy of an MIT student. Used with permission.'
   image-alt: Drawing of a student-designed costume.
+parent_uid: de9474d6-8c28-c8d3-48a5-dc3d4664e467
 resourcetype: Image
 title: Showgirl 1
 uid: 03a23c1a-d9ad-0e42-891a-5cb0fb5d38dd

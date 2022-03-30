@@ -7,6 +7,7 @@ image_metadata:
   caption: Geoffrey, son of Henry and Eleanor.
   credit: 'Credit: Image courtesy of Sarah Slotznick. Used with permission.'
   image-alt: Drawing of a student-designed costume.
+parent_uid: ee8aa7c7-827d-252e-9ea0-3f6a864888c1
 resourcetype: Image
 title: Geoffrey
 uid: faa02a05-941f-b0db-d1c4-01205087d26c

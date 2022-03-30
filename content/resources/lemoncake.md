@@ -7,6 +7,7 @@ image_metadata:
   caption: Inspired by a lemon layer cake.
   credit: 'Credit: Image courtesy of an MIT student. Used with permission.'
   image-alt: Drawing of a student-designed costume.
+parent_uid: b0081133-fc7e-cb3e-2f17-a4cde7eb0d41
 resourcetype: Image
 title: Lemon Cake
 uid: bac00278-f6fa-5972-84c2-ec166090fc65

@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of Sarah Slotznick. Used with permission.'
   image-alt: A gown with cap sleeves and a large hoop skirt, with ruffles running
     across the skirt and bodice every 6 inches.
+parent_uid: e22d60f6-e6a0-454b-cc4b-879dd1207d9d
 resourcetype: Image
 title: Student A - Horizontal
 uid: 1350e7c5-8709-2cff-8550-f36d03f3849c

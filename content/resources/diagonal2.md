@@ -7,6 +7,7 @@ image_metadata:
   caption: A dress with diagonal lines.
   credit: 'Credit: Image courtesy of an MIT student. Used with permission.'
   image-alt: Drawing of a student-designed costume.
+parent_uid: 3fa26932-ba44-6d17-8a4a-90755b609f6b
 resourcetype: Image
 title: Student B - Diagonal
 uid: 8f787910-9651-bb87-c80d-c172688910ec

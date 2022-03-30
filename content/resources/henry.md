@@ -7,6 +7,7 @@ image_metadata:
   caption: Henry II, King of England
   credit: 'Credit: Image courtesy of Sarah Slotznick. Used with permission.'
   image-alt: Drawing of a student-designed costume.
+parent_uid: ee8aa7c7-827d-252e-9ea0-3f6a864888c1
 resourcetype: Image
 title: Henry
 uid: 2fe40b79-0fc6-a027-4312-c960894430f1
